@@ -1,0 +1,45 @@
+h1{
+    color: red;
+}
+h2{
+    padding-bottom: 15px;
+    color: red;
+    font-style: italic;
+     
+    
+}
+ol li{
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+p{
+    color: rgb(201, 20, 20);
+    font-size:18px;
+
+    
+}
+span{
+    font-weight: bold;
+}
+.item-third{
+    text-decoration: line-through;
+}
+.item-four{
+    background-color: yellow;
+}
+.item-five{
+    text-decoration: underline;
+}
+.item-six{
+    background-color: yellow;
+}
+ul li{
+    letter-spacing: 6px;
+    font-size: 19px;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    font-style: italic;
+    font-size: 19px;
+}
